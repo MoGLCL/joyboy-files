@@ -1,0 +1,8 @@
+# JoyBoy Runtime Manifest
+# Format: relative/path|size_bytes
+JoyboyCore.dll|6498816
+Qt5Core.dll|6023664
+Qt5Gui.dll|7008240
+Qt5Widgets.dll|5498352
+imageformats/qico.dll|38384
+platforms/qwindows.dll|1477104
